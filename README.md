@@ -8,10 +8,15 @@ Hello, My Name is Pritam, Welcome to my GitHub repository dedicated to showcasin
 In this repository, you will find a collection of projects that highlight various aspects of machine learning. Each project focuses on solving different problems using state-of-the-art algorithms and techniques. These projects cover a wide range of domains, including but not limited to:
 
 Natural Language Processing (NLP)
+
 Computer Vision
+
 Time Series Analysis
+
 Recommender Systems
+
 Anomaly Detection
+
 Classification and Regression
 
 **What to Expect**
